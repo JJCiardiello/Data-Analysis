@@ -36,3 +36,15 @@ Survey data on smoking habits from the United Kingdom used as my personal portfo
 [Raw Data](https://github.com/JJCiardiello/Data-Analysis/blob/main/smoking.csv)
 
 [Analysis](https://github.com/JJCiardiello/Data-Analysis/blob/main/JC-Smoking-UK-Analysis.ipynb)
+
+---
+
+### Superstore Sales Data US
+
+Retail dataset of a global superstore for 4 years.
+
+[Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
+
+[Raw Data](https://github.com/JJCiardiello/Data-Analysis/blob/main/train.csv)
+
+[Analysis](https://github.com/JJCiardiello/Data-Analysis/blob/main/JC-Superstore-Analysis.ipynb)
